@@ -4,7 +4,7 @@ This repository contains a Power BI dashboard for visualizing pharmaceutical dru
 
 ## Dashboard Preview
 
-![Pharma Drug Sales Dashboard](Dashboard image.png)
+![Pharma Drug Sales Dashboard](./Dashboard%20image.png)
 
 *Dashboard showing pharmaceutical sales analytics with key performance indicators, trend analysis, and regional sales distribution.*
 
