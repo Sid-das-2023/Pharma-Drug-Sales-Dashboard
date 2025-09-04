@@ -1,31 +1,58 @@
-# Pharma Drug Sales Analysis Power BI Project
+# Pharma Drug Sales Dashboard
 
-This repository contains a comprehensive tutorial on analyzing pharma drug sales data with Power BI. This end-to-end project will guide you through creating a complete interactive dashboard, from data import and cleaning to visualizations and dashboard design.
+This repository contains a Power BI dashboard for visualizing pharmaceutical drug sales data. The dashboard provides insights into sales trends, product performance, and market analysis for pharmaceutical companies.
 
-![Pharma Drug Sales Analysis Dashboard](https://github.com/pianalytix/Power-BI-Project-Pharma-Drug-Sales-Analysis-Complete-Dashboard-Tutorial/blob/main/Power%20BI%20%20Pharma%20Project.png?raw=true)
+## Dashboard Preview
 
-## Project Overview
+![Pharma Drug Sales Dashboard](./images/dashboard-preview.png)
 
-In this project, you will learn how to:
-- Import, clean, and transform sales data for analysis.
-- Develop insightful visualizations to identify sales trends, market dynamics, and other critical metrics.
-- Build a polished, interactive Power BI dashboard to explore pharma drug sales insights.
+*Dashboard showing pharmaceutical sales analytics with key performance indicators, trend analysis, and regional sales distribution.*
 
-The dashboard includes:
-- **Sales Trends** by product, region, and timeframe.
-- **Market Dynamics** insights to understand competitive landscape and product performance.
-- **Key Metrics** for tracking overall sales performance and specific drug sales.
+## Overview
 
-## Watch the Full Tutorial
+The Pharma Drug Sales Dashboard is designed to help pharmaceutical companies track and analyze their sales data, identify trends, and make data-driven decisions to optimize their sales strategies.
 
-For a step-by-step walkthrough, watch the full tutorial on YouTube:
+## Features
 
-[Watch on YouTube: Pharma Drug Sales Analysis Power BI Project](https://youtu.be/h6TTU8zcFiA?si=BYDJQ5owieeQ_h83)
+- **Sales Analytics**: Track sales performance over time
+- **Product Performance**: Analyze how different drugs are performing
+- **Market Analysis**: Understand market share and competition
+- **Regional Insights**: View sales data by geographic regions
+- **Customizable Reports**: Generate reports based on specific criteria
 
 ## Getting Started
 
-Clone or fork this repository to follow along with the tutorial. This project is designed to enhance your Power BI skills by building an industry-specific dashboard for pharma sales analysis.
+### Prerequisites
 
-For any questions or feedback, feel free to open an issue in this repository.
+- Power BI Desktop
+- Microsoft Account
 
-Happy analyzing!
+### Installation
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/yourusername/Pharma-Drug-Sales-Dashboard.git
+    ```
+
+2. Open the `.pbix` file with Power BI Desktop
+
+## Usage
+
+Navigate through the different tabs in the dashboard to explore various aspects of the pharmaceutical sales data.
+
+## Project Structure
+
+```
+Pharma-Drug-Sales-Dashboard/
+├── Pharma_Sales_Dashboard.pbix  # Main Power BI dashboard file
+├── data/                        # Data files (if provided separately)
+└── README.md                    # Project documentation
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
